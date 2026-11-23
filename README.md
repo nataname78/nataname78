@@ -3,6 +3,8 @@
 **Data Scientist & AI Engineer** — systèmes RAG, agents LLM, deep learning, évalués avec rigueur.
 M2 IA & Data Science (aivancity). Recherche un CDI, un CDD ou une mission, en Île-de-France ou en télétravail.
 
+**👉 [Voir mon portfolio](https://nataname78.github.io)** · [Mon CV](https://nataname78.github.io/cv.html) · [LinkedIn](https://www.linkedin.com/in/nathan-makila/)
+
 ## Projets
 
 | Projet | Ce que c'est | Ce qui a été mesuré |
