@@ -13,6 +13,7 @@ M2 IA & Data Science (aivancity). Recherche un CDI, un CDD ou une mission, en Î
 | [food-security-agent](https://github.com/nataname78/food-security-agent) | Agent d'alerte précoce d'insécurité alimentaire, serveur MCP, garde-fous | 5 tests d'injection de prompt, coûts et latence mesurés |
 | [ids-xai-pfe](https://github.com/nataname78/ids-xai-pfe) | Détection d'intrusion explicable (XGBoost, FT-Transformer, SHAP, LIME) | Test de fuite de données et généralisation sur un second jeu |
 | [yc-name-recall](https://github.com/nataname78/yc-name-recall) | Audit de mémorisation de LLM (ablation d'identité) | Effet mesuré : −0,027 |
+| [ai4T](https://github.com/nataname78/ai4T) | Projet d'équipe, article IEEE : calibration d'un modèle de prévision de qualité vidéo en 5G (GRU, recalibration, changement de site, explication par LLM) | Erreur de calibration brute 0,1085 → 0,0087 (régression logistique → GRU) |
 
 ## Ce qui m'intéresse
 
